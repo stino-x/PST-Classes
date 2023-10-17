@@ -1,6 +1,7 @@
 class Person
-  attr_reader :id, :name
-  attr_accessor :age # Combines getter and setter for age
+  attr_accessor :name
+  attr_reader :id
+  attr_writer :age
 
   def initialize(name: 'Unknown', age: 0, parent_permission: true)
     @id = rand(1..1000)
