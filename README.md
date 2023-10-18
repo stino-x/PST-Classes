@@ -27,9 +27,13 @@
 
 **OOP school library** is a simple ruby project that that uses object-oriented programming to model a school library.
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with">
+- Ruby
+</a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="tech-stack">
+- Ruby
+</a>
 
 <details>
   <summary>Backend</summary>
