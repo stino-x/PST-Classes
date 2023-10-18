@@ -4,22 +4,26 @@
 
 # 📗 Table of Contents
 
-<details>
-  <summary>📗 Table of Contents</summary>
-  <ul>
-    <li><a href="#-meal-app-">📖 OOP School Library</a></li>
-    <li><a href="#-built-with-">🛠 Built With</a></li>
-    <li><a href="#-getting-started-">💻 Getting Started</a></li>
-    <li><a href="#-authors-">👥 Authors </a></li>
-    <li><a href="#-future-features-">🔭 Future Features</a></li>
-    <li><a href="#-contributing-">🤝 Contributing</a></li>
-    <li><a href="#️-show-your-support-">⭐️ Show your support </a></li>
-    <li><a href="#-acknowledgments-">🙏 Acknowledgments </a></li>
-    <li><a href="#-license-">📝 License</a></li>
-  </ul>
-</details>
-
-<br>
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Weather Web ](#-weather-web-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment ](#deployment-)
+  - [👥 Author ](#-author-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [❓ FAQ ](#-faq-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
