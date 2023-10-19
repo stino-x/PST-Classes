@@ -4,22 +4,22 @@
 
 # 📗 Table of Contents
 
-<details>
-  <summary>📗 Table of Contents</summary>
-  <ul>
-    <li><a href="#-meal-app-">📖 OOP School Library</a></li>
-    <li><a href="#-built-with-">🛠 Built With</a></li>
-    <li><a href="#-getting-started-">💻 Getting Started</a></li>
-    <li><a href="#-authors-">👥 Authors </a></li>
-    <li><a href="#-future-features-">🔭 Future Features</a></li>
-    <li><a href="#-contributing-">🤝 Contributing</a></li>
-    <li><a href="#️-show-your-support-">⭐️ Show your support </a></li>
-    <li><a href="#-acknowledgments-">🙏 Acknowledgments </a></li>
-    <li><a href="#-license-">📝 License</a></li>
-  </ul>
-</details>
-
-<br>
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 OOP ](#-OOP-school-library-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Deployment ](#deployment-)
+  - [👥 Author ](#-author-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](./LICENSE.md)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -27,9 +27,13 @@
 
 **OOP school library** is a simple ruby project that that uses object-oriented programming to model a school library.
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with">
+- Ruby
+</a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="tech-stack">
+- Ruby
+</a>
 
 <details>
   <summary>Backend</summary>
@@ -138,6 +142,6 @@ If you like this project please leave a star🤩
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
