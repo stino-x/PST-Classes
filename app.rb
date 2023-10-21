@@ -34,13 +34,13 @@ class App
   end
 
   def create_student
-    print 'Age: '
-    age = gets.chomp.to_i
     print 'Name: '
     name = gets.chomp
+    print 'Age: '
+    age = gets.chomp.to_i
     print 'Has parent permission? [Y/N]: '
     parent_permission = gets.chomp.downcase == 'y'
-    @people.push(Student.new(age, name, parent_permission: parent_permission))
+    @people.push(Student.new(name: name, age: age, parent_permission: parent_permission))
     puts
     puts 'Student is successfully created'
   end
@@ -66,7 +66,10 @@ class App
     age = gets.chomp
     print 'Specialization: '
     specialization = gets.chomp
-    @people.push(Teacher.new(specialization, age, name))
+    print 'Has parent permission? [Y/N]: '
+    parent_permission = gets.chomp.downcase == 'y'
+    @people.push(Teacher.new(specialization: specialization, name: name, age: age,
+                             parent_permission: parent_permission))
     puts
     puts 'Teacher is successfully created'
     @parent.show_menu
