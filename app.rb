@@ -33,6 +33,18 @@ class App
     @parent.show_menu
   end
 
+  def create_student
+    print 'Age: '
+    age = gets.chomp.to_i
+    print 'Name: '
+    name = gets.chomp
+    print 'Has parent permission? [Y/N]: '
+    parent_permission = gets.chomp.downcase == 'y'
+    @people.push(Student.new(age, name, parent_permission: parent_permission))
+    puts
+    puts 'Student is successfully created'
+  end
+
   def create_person
     puts 'Do you want to create a Student(1) or Teacher(2)? [ENTER NUMBER]:'
     person_input = gets.chomp
